@@ -1,0 +1,33 @@
+body {
+    background-image: url( ../Images/meadow-5648849_1280.jpg );
+    background-size: cover;
+}
+
+
+h1, p {
+    text-align: center;
+    color: black;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center_img {
+    width: 100%;
+    background-color: lightpink;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    max-width: 600px;
+    max-height: 1000px;
+   
+  }
+
+  hr {
+    height: 2px;
+    background-color: palevioletred;
+    border-color: palevioletred;
+  }
