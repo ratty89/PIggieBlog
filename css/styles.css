@@ -36,7 +36,11 @@ h1, p {
 .logo-container {
     display: flex;
     justify-content: center;
-    flex-direction: row;
     gap: 5px; /* Adjust gap as needed */
   }
+
+.logo {
+    height: 20px ;
+    width: 25px ;
+}
 
