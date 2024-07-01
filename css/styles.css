@@ -31,3 +31,7 @@ h1, p {
     background-color: palevioletred;
     border-color: palevioletred;
   }
+
+  a {
+    display: inline;
+  }
