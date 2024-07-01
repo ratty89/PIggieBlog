@@ -33,7 +33,7 @@ h1, p {
   }
 
  .logo {
-    width: 100px; /* Adjust width as needed */
+    width: auto; /* Adjust width as needed */
     height: auto;
   }
 
@@ -42,3 +42,4 @@ h1, p {
     justify-content: center;
     gap: 5px; /* Adjust gap as needed */
   }
+
