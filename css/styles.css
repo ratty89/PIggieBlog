@@ -33,12 +33,7 @@ h1, p {
     border: none;
   }
 
- .logo {
-    width: auto; /* Adjust width as needed */
-    height: auto;
-  }
-
-  .logo-container {
+.logo-container {
     display: flex;
     justify-content: center;
     flex-direction: row;
