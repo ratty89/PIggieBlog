@@ -27,9 +27,10 @@ h1, p {
   }
 
   hr {
-    height: 2px;
+    height: 4px;
     background-color: palevioletred;
     border-color: palevioletred;
+    border: none;
   }
 
  .logo {
@@ -40,6 +41,7 @@ h1, p {
   .logo-container {
     display: flex;
     justify-content: center;
+    flex-direction: row;
     gap: 5px; /* Adjust gap as needed */
   }
 
