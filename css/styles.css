@@ -41,3 +41,4 @@ h1, p {
     display: flex;
     justify-content: center;
     gap: 5px; /* Adjust gap as needed */
+  }
