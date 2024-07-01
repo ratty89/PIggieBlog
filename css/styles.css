@@ -1,5 +1,5 @@
 body {
-    background-image: url( ../Images/meadow-5648849_1280.jpg );
+    background-image: url( ../Images/meadow-grass.jpg );
     background-size: cover;
 }
 
@@ -32,6 +32,12 @@ h1, p {
     border-color: palevioletred;
   }
 
-  a {
-    display: inline;
+ .logo {
+    width: 100px; /* Adjust width as needed */
+    height: auto;
   }
+
+  .logo-container {
+    display: flex;
+    justify-content: center;
+    gap: 5px; /* Adjust gap as needed */
